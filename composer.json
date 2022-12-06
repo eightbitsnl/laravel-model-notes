@@ -1,11 +1,11 @@
 {
-    "name": "digitalcloud/laravel-model-notes",
+    "name": "eightbitsnl/laravel-model-notes",
     "description": "A package to enable assigning notes to Eloquent Models",
     "keywords": [
         "digitalcloud",
         "laravel-note"
     ],
-    "homepage": "https://github.com/digitalcloud/laravel-model-notes",
+    "homepage": "https://github.com/eightbitsnl/laravel-model-notes",
     "license": "MIT",
     "authors": [
         {
